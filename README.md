@@ -10,3 +10,5 @@ Os scripts indicados por 1, 2 e 3 correspondem, respectivamente, aos três momen
 1. Importação e tratamento dos dados originários;
 2. Análise exploratória e construção de indicadores de mortalidade de Covid-19 por categoria ocupacional;
 3. Regressões logísticas e estimativa de razões de chance por categoria ocupacional e por sexo e raça.
+
+A nota metodológica do estudo pode ser acessada via Google Drive no link: < https://docs.google.com/document/d/1s76diN1xE_59ia1_4Ay34RXcLrW9GIzByw2MrWhEUa0/edit?usp=sharing >
